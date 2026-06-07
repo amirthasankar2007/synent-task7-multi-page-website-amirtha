@@ -1,26 +1,28 @@
 # synent-task7-multi-page-website-amirtha
-# Multi-Page Website
+ Multi-Page Website
 
 ## Project Objective
 
-The objective of this project is to develop a responsive multi-page website using HTML, CSS, and JavaScript.
+The objective of this project is to build a professional multi-page website with a responsive design, smooth navigation, and a consistent user interface across all pages.
 
 ## Steps Performed
 
-1. Designed the website layout and navigation.
-2. Created multiple web pages.
-3. Applied CSS for styling and responsiveness.
-4. Added JavaScript for interactive features.
-5. Tested the website functionality.
+1. Created the Home, About, Services, and Contact pages.
+2. Designed a consistent layout and user interface for all pages.
+3. Implemented navigation links to move between pages.
+4. Applied responsive CSS to ensure compatibility across different devices.
+5. Organized the website structure for a professional appearance.
+6. Tested navigation and responsiveness on multiple screen sizes.
 
 ## Tools Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 * Visual Studio Code
 * GitHub
 
 ## Outcome
 
-Successfully developed a responsive multi-page website with user-friendly navigation and interactive features.
+Successfully developed a responsive multi-page website with Home, About, Services, and Contact pages, featuring seamless navigation and a consistent professional design across all pages.
+
